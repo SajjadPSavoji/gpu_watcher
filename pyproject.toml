@@ -1,0 +1,15 @@
+[project]
+name = "gpu-watcher"
+version = "0.1.0"
+description = "Script to monitor and occupy GPUs if free"
+authors = [
+    { name = "Sajjad Pakdamansavoji", email = "sj.pakdaman.edu@gmail.com" }
+]
+dependencies = [
+    "torch",
+    "numpy"
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
