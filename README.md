@@ -1,5 +1,5 @@
 # gpu_watcher
-Contains code to keep your GPUs occupied when they are not in use.
+Keeps your GPUs occupied when they are not in use.
 
 ## Install & Run
 
