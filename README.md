@@ -5,7 +5,7 @@ Contains code to keep your GPUs occupied when they are not in use.
 
 ```
 uv venv .venv --python=python3.10
-uv pip install -e .
 source .venv/bin/activate
+uv pip install -e .
 python watch.py
 ```
